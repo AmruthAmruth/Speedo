@@ -411,8 +411,8 @@ This project is licensed under the ISC License.
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@yourusername](https://github.com/AmruthAmruth)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/amruth-shyju/)
 
 ---
 
